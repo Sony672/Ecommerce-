@@ -11,7 +11,7 @@
     "status_bar": "default", 
     "icons": [
            {
-           "src": "/img/icons/logo1.png", 
+           "src": "/img/logo1.png", 
            "sizes": "512x512", 
            "purpose": "any maskable"
            }
