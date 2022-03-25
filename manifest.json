@@ -1,0 +1,20 @@
+{ 
+    "name": "Ecommerce Website", 
+    "short_name": "Ecommerce Website", 
+    "description": "PWA for Ecommerce Website", 
+    "start_url": "/", 
+    "display": "standalone", 
+    "scope": "/", 
+    "orientation": "any", 
+    "background_color": "#ffffff", 
+    "theme_color": "#000000", 
+    "status_bar": "default", 
+    "icons": [
+           {
+           "src": "/img/icons/logo1.png", 
+           "sizes": "512x512", 
+           "purpose": "any maskable"
+           }
+           ]
+       }
+     
