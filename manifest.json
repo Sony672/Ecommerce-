@@ -1,0 +1,20 @@
+{ 
+    "name": "Phillou", 
+    "short_name": "phillou", 
+    "description": "PWA for Ecommerce Website", 
+    "start_url": "ani./", 
+    "display": "standalone", 
+    "scope": "./", 
+    "orientation": "any", 
+    "background_color": "#ffffff", 
+    "theme_color": "#000000", 
+    "status_bar": "default", 
+    "icons": [
+           {
+           "src": "/img/logo1.png", 
+           "sizes": "512x512", 
+           "purpose": "any maskable"
+           }
+           ]
+       }
+     
