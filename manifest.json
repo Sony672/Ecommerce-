@@ -2,7 +2,7 @@
     "name": "Phillou", 
     "short_name": "phillou", 
     "description": "PWA for Ecommerce Website", 
-    "start_url": "ani./", 
+    "start_url": "ecommerce.html", 
     "display": "standalone", 
     "scope": "./", 
     "orientation": "any", 
