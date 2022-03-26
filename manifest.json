@@ -1,6 +1,6 @@
 { 
-    "name": "Phillou", 
-    "short_name": "phillou", 
+    "name": "Shoppers Mart", 
+    "short_name": "Shoppers Mart", 
     "description": "PWA for Ecommerce Website", 
     "start_url": "ecommerce.html", 
     "display": "standalone", 
@@ -11,7 +11,7 @@
     "status_bar": "default", 
     "icons": [
            {
-           "src": "/img/logo1.png", 
+           "src": "/img/Logomain.jpg", 
            "sizes": "512x512", 
            "purpose": "any maskable"
            }
