@@ -1,0 +1,20 @@
+{ 
+    "name": "Shoppers Mart", 
+    "short_name": "Shoppers Mart", 
+    "description": "PWA for Ecommerce Website", 
+    "start_url": "ecommerce.html", 
+    "display": "standalone", 
+    "scope": "./", 
+    "orientation": "any", 
+    "background_color": "#ffffff", 
+    "theme_color": "#000000", 
+    "status_bar": "default", 
+    "icons": [
+           {
+           "src": "/img/Logomain.jpg", 
+           "sizes": "512x512", 
+           "purpose": "any maskable"
+           }
+           ]
+       }
+     
